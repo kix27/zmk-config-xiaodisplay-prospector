@@ -17,4 +17,4 @@ manifest:
       url: https://github.com/kix27/zmk-module-xiaord.git
       revision: main
   self:
-    path: config
+    path: config 
