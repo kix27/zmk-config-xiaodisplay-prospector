@@ -2,4 +2,4 @@
     chosen {
         zmk,kscan = &xiaord_mock_kscan;
     };
-};
+}; 

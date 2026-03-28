@@ -3,4 +3,4 @@ if SHIELD_XIAORD_SCANNER
 config ZMK_KEYBOARD_NAME
     default "XIAO RD Scanner"
 
-endif
+endif 
