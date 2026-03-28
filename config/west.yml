@@ -10,8 +10,8 @@ manifest:
       revision: main
       import: app/west.yml
     - name: prospector-zmk-module
-      remote: prospector
-      revision: v2.1.0
+      url: https://github.com/kix27/prospector-zmk-module-for-xiaodisplay.git
+      revision: main
       path: modules/prospector-zmk-module
     - name: zmk-module-xiaord
       url: https://github.com/kix27/zmk-module-xiaord.git
