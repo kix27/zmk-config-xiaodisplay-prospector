@@ -13,5 +13,8 @@ manifest:
       remote: prospector
       revision: v2.1.0
       path: modules/prospector-zmk-module
+    - name: zmk-module-xiaord
+      url: https://github.com/TakeshiAkehi/zmk-module-xiaord.git
+      revision: main
   self:
     path: config
