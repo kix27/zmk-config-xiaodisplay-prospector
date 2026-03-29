@@ -10,7 +10,7 @@
 >
 > **🎡 LAYER SLIDE MODE (optional)**: Dial-style animated display, enables 10+ layer support
 >
-> ⚠️ **Keyboard module compatibility**: Use `v2.0.0` for ZMK ≤0.3 (Zephyr 3.x) 
+> ⚠️ **Keyboard module compatibility**: Use `v2.0.0` for ZMK ≤0.3 (Zephyr 3.x)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v2.1.0-brightgreen" alt="Version 2.1.0">
